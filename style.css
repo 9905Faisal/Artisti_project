@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:ital@0;1&family=Whisper&display=swap");
+body {
+  font-family: 'Montserrat', sans-serif; }
+
+#headerPart_1 .navbar {
+  margin-bottom: 0px; }
+#headerPart_1 .navbar-default {
+  background-color: #f5f5f5;
+  border-top: 5px solid red;
+  border-radius: 0; }
+
+#headerPart_2 .navbar {
+  height: 90px;
+  width: 100%;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-left: 30px; }
+#headerPart_2 .navbar-default {
+  background-color: white; }
+#headerPart_2 .btn {
+  height: 50px;
+  width: 100px;
+  border-radius: 100px;
+  font-weight: bold; }
+#headerPart_2 .navbar-brand img {
+  width: 180px; }
+
+.breadcrumb {
+  background-color: orangered;
+  margin-top: -60px;
+  margin-left: 25px; }
+
+.page-header li a {
+  color: white;
+  width: 1100px;
+  margin-top: 100px; }
+
+#checkout .box {
+  height: 50px;
+  width: 5px;
+  background-color: orangered; }
+#checkout .h1 {
+  padding-left: 20px;
+  margin-top: -40px; }
+#checkout .p {
+  color: darkgray; }
+#checkout .checkbox {
+  color: gray; }
+
+#steps span {
+  float: right;
+  padding-top: 6px; }
+#steps .h3 {
+  font-weight: bold; }
+#steps .p {
+  color: gray; }
+#steps button {
+  margin-top: 50px;
+  background-color: #444645;
+  border: 2px solid #1e1f1e;
+  color: white; }
+#steps form label {
+  width: 150px; }
+#steps form span {
+  padding-bottom: 2px;
+  padding-top: 2px;
+  padding-right: 63px;
+  font-size: 15px;
+  color: red; }
+#steps form input {
+  width: 400px; }
+#steps form a {
+  color: red;
+  margin-left: 380px; }
+#steps .checkbox {
+  color: gray; }
+#steps table {
+  margin-top: -20px; }
+  #steps table .gray {
+    background-color: #faf6f6; }
+  #steps table td {
+    background-color: #ffffff; }
+  #steps table thead th {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 60px; }
+  #steps table td {
+    text-align: center; }
+  #steps table .firstbox {
+    color: #777777;
+    padding-left: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  #steps table .secondbox {
+    padding-left: 800px;
+    font-size: 18px;
+    color: #666666;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #faf6f6; }
+  #steps table .thirdbox {
+    color: red; }
+  #steps table .fourthbox {
+    color: #777777; }
+  #steps table .fifthbox {
+    padding-top: 30px; }
+  #steps table .p {
+    color: lightgrey;
+    margin-bottom: 5px; }
+  #steps table input {
+    width: 80px; }
+  #steps table button {
+    margin-right: 25px;
+    margin-top: -1px;
+    height: 20px;
+    width: 20px;
+    background-color: #fafafa; }
+    #steps table button span {
+      margin-right: 0px;
+      margin-top: -7px;
+      color: black; }
+
+.buttonbox {
+  margin-top: -50px;
+  float: right; }
+
+#footerPart_1 {
+  margin-left: -15px;
+  margin-right: -15px;
+  background-color: #e5e6e5; }
+  #footerPart_1 .form-control {
+    margin-top: 10px;
+    height: 48px;
+    background-color: transparent;
+    border: 3px solid white; }
+  #footerPart_1 .btn {
+    margin-top: 10px;
+    margin-right: 20px;
+    padding: 12px 29px;
+    font-size: 16px; }
+  #footerPart_1 .btn-default {
+    background-color: #575a59;
+    color: white; }
+  #footerPart_1 h3 {
+    font-weight: bold; }
+
+#footerPart_2 {
+  background-color: #eeefee;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 60px;
+  padding-bottom: 60px; }
+  #footerPart_2 li {
+    margin-bottom: 20px; }
+  #footerPart_2 .fa {
+    font-size: 10px; }
+  #footerPart_2 a {
+    color: #888888; }
+  #footerPart_2 h4 {
+    font-weight: bolder; }
+
+.logos {
+  height: 80px;
+  width: auto;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: -15px;
+  margin-right: -15px; }
+  .logos .fa {
+    font-size: 30px;
+    color: #888888; }
+  .logos .txt {
+    float: right; }
